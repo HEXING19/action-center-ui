@@ -1,0 +1,6 @@
+{
+  "name": "Action Center",
+  "description": "专为高效推动、跟踪与催办事项设计的现代行动中心系统，收·理·跟·催·关，让每一件事有着落。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
